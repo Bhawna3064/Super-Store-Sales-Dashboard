@@ -9,6 +9,7 @@ PROJECT OBJECTIVE
 4.  Authored DAX metrics to track key business performance indicators, including Year-over-Year (YoY) sales growth, profit margins, and average order value.
 
 DESCRIPTION 
+
   The objective can be broken down into the following detailed components: 
 1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, and add interactive visualizations and filtering capabilities to         allow users to explore the data at various levels of granularity. 
 2.Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
